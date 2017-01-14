@@ -1,4 +1,4 @@
-package com.test;
+package com.addiel.newmodule;
 
 import android.app.Application;
 import android.util.Log;
